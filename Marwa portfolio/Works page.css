@@ -1,0 +1,1175 @@
+
+
+.parent container{
+  margin: 0;
+      padding: 0;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f4e3c2;
+}
+.marquee{
+  
+    width: 100%;
+    
+    font-size: 700px;
+    color: #9d8f74;
+    
+    
+  
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f6e9;
+  zoom:95%;
+  overflow-x:hidden;
+}
+
+header {
+  background-color: #f8f6e9;
+  width: 100%;
+  position: fixed;
+  top: 20;
+  left: 20;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 44px; /* Increased font size */
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: rgb(232, 232, 58); /* Yellow hover effect */
+}
+
+
+
+
+
+
+
+
+.frame-2,
+.frame-2 * {
+  box-sizing: border-box;
+}
+.frame-2 {
+  background: #f1e8d5;
+  height: 7573px;
+  position: relative;
+  overflow: hidden;
+}
+.actor-profile-box {
+  background: #9d8f74;
+  width: 2789px;
+  height: 1297px;
+  position: absolute;
+  left: 109px;
+  top: 933px;
+}
+.actor-profile {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 170px;
+  font-weight: 400;
+  position: absolute;
+  left: 352px;
+  top: 1136px;
+  width: 1554px;
+  height: 221px;
+}
+.during-my-first-year-attending-bath-spa-university-i-completed-an-internship-in-the-position-of-social-media-designer-specialist {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 352px;
+  top: 3363px;
+  width: 1281px;
+  height: 162px;
+}
+.i-spoke-with-the-founder-to-find-out-what-kind-of-marketing-result-she-was-hoping-for {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 352px;
+  top: 3553px;
+  width: 1281px;
+  height: 111px;
+}
+.normally-i-contribute-occasionally-to-the-creation-of-an-acceleration-profile-this-one-was-created-for-a-syrian-model-who-was-based-in-the-united-arab-emirates-i-take-the-majority-of-the-photos {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 121.32%;
+  font-weight: 400;
+  position: absolute;
+  left: 353px;
+  top: 1581px;
+  width: 1018px;
+  height: 216px;
+}
+.maintain-current-client-interactions-boost-engagement-increase-the-amount-of-instagram-followers-create-brand-awareness {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1907px;
+  top: 2438px;
+  width: 1000px;
+  height: 232px;
+}
+.goals-box {
+  position: absolute;
+  inset: 0;
+}
+.goals-group {
+  width: 1159px;
+  height: 376px;
+  position: static;
+}
+.rectangle-43 {
+  background: #92472c;
+  width: 1159px;
+  height: 376px;
+  position: absolute;
+  left: 1739px;
+  top: 2366px;
+}
+.maintain-current-client-interactions-boost-engagement-increase-the-amount-of-instagram-followers-create-brand-awareness2 {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1876px;
+  top: 2438px;
+  width: 1000px;
+  height: 232px;
+}
+.check-mark {
+  width: 48px;
+  height: 51px;
+  position: absolute;
+  left: 1793px;
+  top: 2438px;
+  object-fit: cover;
+}
+.check-mark2 {
+  width: 48px;
+  height: 51px;
+  position: absolute;
+  left: 1793px;
+  top: 2493px;
+  object-fit: cover;
+}
+.check-mark3 {
+  width: 48px;
+  height: 51px;
+  position: absolute;
+  left: 1793px;
+  top: 2544px;
+  object-fit: cover;
+}
+.check-mark4 {
+  width: 48px;
+  height: 51px;
+  position: absolute;
+  left: 1793px;
+  top: 2595px;
+  object-fit: cover;
+}
+.milanto {
+  width: 111px;
+  height: 118px;
+  position: absolute;
+  left: 1841px;
+  top: 3374px;
+  object-fit: cover;
+}
+.previews {
+  width: 111px;
+  height: 118px;
+  position: absolute;
+  left: 2386px;
+  top: 3374px;
+  object-fit: cover;
+}
+.meta {
+  width: 111px;
+  height: 118px;
+  position: absolute;
+  left: 2386px;
+  top: 3507px;
+  object-fit: cover;
+}
+.notion {
+  width: 111px;
+  height: 118px;
+  position: absolute;
+  left: 1841px;
+  top: 3507px;
+  object-fit: cover;
+}
+.skills-acquired {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 1845px;
+  top: 2780px;
+  width: 508px;
+  height: 56px;
+}
+.tools-apps {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 1841px;
+  top: 3274px;
+  width: 508px;
+  height: 56px;
+}
+.milanote {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1974px;
+  top: 3376px;
+  width: 508px;
+  height: 56px;
+}
+.moodboard-for-team-colaboration {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1974px;
+  top: 3424px;
+  width: 508px;
+  height: 56px;
+}
+.task-and-project-workspace {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1974px;
+  top: 3566px;
+  width: 508px;
+  height: 56px;
+}
+.instagram-feed-planner-post-scheduling {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 2536px;
+  top: 3424px;
+  width: 508px;
+  height: 56px;
+}
+.business-account-management {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 2536px;
+  top: 3608px;
+  width: 508px;
+  height: 56px;
+}
+.notion2 {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1974px;
+  top: 3510px;
+  width: 508px;
+  height: 56px;
+}
+.previews2 {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 2536px;
+  top: 3377px;
+  width: 508px;
+  height: 56px;
+}
+.meta-buisness-suites {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 2536px;
+  top: 3516px;
+  width: 508px;
+  height: 56px;
+}
+.skills-1 {
+  background: #000000;
+  border-radius: 65px;
+  width: 405px;
+  height: 110px;
+  position: absolute;
+  left: 1845px;
+  top: 2884px;
+}
+.skills-2 {
+  background: #000000;
+  border-radius: 65px;
+  width: 462px;
+  height: 110px;
+  position: absolute;
+  left: 2260px;
+  top: 2884px;
+}
+.skills-4 {
+  background: #000000;
+  border-radius: 65px;
+  width: 462px;
+  height: 110px;
+  position: absolute;
+  left: 2386px;
+  top: 3023px;
+}
+.skills-3 {
+  background: #000000;
+  border-radius: 65px;
+  width: 528px;
+  height: 110px;
+  position: absolute;
+  left: 1841px;
+  top: 3023px;
+}
+._01 {
+  color: #221908;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 140px;
+  font-weight: 400;
+  position: absolute;
+  left: 2710px;
+  top: 796px;
+  width: 924px;
+  height: 214px;
+}
+.hand-image {
+  width: 1931px;
+  height: 1644px;
+  position: absolute;
+  left: 1238px;
+  top: 634px;
+  object-fit: cover;
+}
+.the-goals {
+  color: #221908;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 210px;
+  font-weight: 400;
+  position: absolute;
+  left: 1850px;
+  top: 2104px;
+  width: 924px;
+  height: 214px;
+}
+.communication {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1869px;
+  top: 2911px;
+  width: 356px;
+  height: 78px;
+}
+.color-intuition {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 2302px;
+  top: 2911px;
+  width: 420px;
+  height: 55px;
+}
+.workflow-oversight {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1876px;
+  top: 3048px;
+  width: 467px;
+  height: 60px;
+}
+.schedule-planning {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 2424px;
+  top: 3048px;
+  width: 403px;
+  height: 51px;
+}
+.ligh-cream-brown-box {
+  background: #f2e8d4;
+  width: 3320px;
+  height: 3606px;
+  position: absolute;
+  left: 0px;
+  top: 3853px;
+}
+._01-brand-research {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 350px;
+  top: 4005px;
+  width: 588px;
+  height: 79px;
+}
+.images {
+  color: #bea17d;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 350px;
+  top: 4123px;
+  width: 241px;
+  height: 52px;
+}
+.target {
+  color: #bea17d;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 1216px;
+  top: 4123px;
+  width: 241px;
+  height: 52px;
+}
+.values {
+  color: #bea17d;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 2070px;
+  top: 4126px;
+  width: 241px;
+  height: 52px;
+}
+.ethical-eco-friendly-clothing-avent-garde-classic-modesty {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 2069px;
+  top: 4218px;
+  width: 653px;
+  height: 139px;
+}
+.who-are-stylishly-modest-environmentally-conscious-and-of-a-chick {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1216px;
+  top: 4218px;
+  width: 653px;
+  height: 139px;
+}
+.powerful-stylish-monochromatic-receptive-imaginative-and-environmentally-conscious {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 351px;
+  top: 4218px;
+  width: 653px;
+  height: 139px;
+}
+.task-back-box {
+  background: #9d8f74;
+  width: 3320px;
+  height: 871px;
+  position: absolute;
+  left: 0px;
+  top: 4626px;
+}
+.phone {
+  width: 806px;
+  height: 1592px;
+  position: absolute;
+  left: 350px;
+  top: 4463px;
+  object-fit: cover;
+}
+._02-feed-concepts {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 1219px;
+  top: 5564px;
+  width: 588px;
+  height: 79px;
+}
+._03-post-planning {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 2027px;
+  top: 5564px;
+  width: 588px;
+  height: 79px;
+}
+.planned-content-for-2-4-posts-per-week-for-instagram-and-facebook-6-months-in-advance {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 2027px;
+  top: 5651px;
+  width: 689px;
+  height: 139px;
+}
+.tailored-instagram-feed-design-to-reflect-the-core-value-of-the-models-profile {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1219px;
+  top: 5696px;
+  width: 689px;
+  height: 139px;
+}
+.chose-color-themes-that-are-suitable-with-brand-ethos {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1219px;
+  top: 5845px;
+  width: 689px;
+  height: 139px;
+}
+.edited-video-and-graphic-creation-for-promotional-assets {
+  color: #000000;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 2027px;
+  top: 5822px;
+  width: 689px;
+  height: 139px;
+}
+.task-blue {
+  background: #293282;
+  border-radius: 50%;
+  width: 111px;
+  height: 108px;
+  position: absolute;
+  left: 1845px;
+  top: 5961px;
+}
+.task-umber {
+  background: #92472c;
+  border-radius: 50%;
+  width: 111px;
+  height: 108px;
+  position: absolute;
+  left: 1692px;
+  top: 5961px;
+}
+.task-grey {
+  background: #d1cac2;
+  border-radius: 50%;
+  width: 111px;
+  height: 108px;
+  position: absolute;
+  left: 1539px;
+  top: 5961px;
+}
+.task-light-brown {
+  background: #b4936d;
+  border-radius: 50%;
+  width: 111px;
+  height: 108px;
+  position: absolute;
+  left: 1386px;
+  top: 5961px;
+}
+.task-brown {
+  background: #51473c;
+  border-radius: 50%;
+  width: 111px;
+  height: 108px;
+  position: absolute;
+  left: 1233px;
+  top: 5961px;
+}
+.the-results {
+  color: #221908;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 210px;
+  font-weight: 400;
+  position: absolute;
+  left: 518px;
+  top: 6284px;
+  width: 1102px;
+  height: 214px;
+}
+.black-results {
+  background: #000000;
+  width: 815px;
+  height: 849px;
+  position: absolute;
+  left: 1748px;
+  top: 6160px;
+}
+.insights-overview {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 64px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 1908px;
+  top: 6372px;
+  width: 534px;
+  height: 60px;
+}
+.dec-1-dec-31 {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 2266px;
+  top: 6202px;
+  width: 286px;
+  height: 52px;
+}
+.you-reached-534-more-accounts-compared-to-nov-1-nov-30 {
+  text-align: center;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 1869px;
+  top: 6487px;
+  width: 573px;
+  height: 83px;
+}
+.you-reached-534-more-accounts-compared-to-nov-1-nov-30-span {
+  color: #faf6ee;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 112.91%;
+  font-weight: 400;
+}
+.you-reached-534-more-accounts-compared-to-nov-1-nov-30-span2 {
+  color: #5a985e;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 112.91%;
+  font-weight: 400;
+}
+.you-reached-534-more-accounts-compared-to-nov-1-nov-30-span3 {
+  color: #faf6ee;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 112.91%;
+  font-weight: 400;
+}
+.previous-month {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #2d2c2c;
+  border-width: 3px;
+  width: 427px;
+  height: 65px;
+  position: absolute;
+  left: 1789px;
+  top: 6184px;
+}
+.previous-month2 {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1829px;
+  top: 6190px;
+  width: 346px;
+  height: 46px;
+}
+.group-6 {
+  height: auto;
+  position: absolute;
+  left: 2131px;
+  top: 6206px;
+  overflow: visible;
+}
+.black-box-line {
+  border-style: solid;
+  border-color: #2d2c2c;
+  border-width: 3px 0 0 0;
+  width: 792.01px;
+  height: 0px;
+  position: absolute;
+  left: 1776px;
+  top: 6281px;
+  transform-origin: 0 0;
+  transform: rotate(-0.217deg) scale(1, 1);
+}
+.black-box-1-str {
+  width: 153px;
+  height: 150px;
+  position: absolute;
+  left: 1650px;
+  top: 6134px;
+  overflow: visible;
+}
+.black-box-2-str {
+  width: 104px;
+  height: 103px;
+  position: absolute;
+  left: 1714px;
+  top: 6254px;
+  overflow: visible;
+}
+.accounts-reached {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 1796px;
+  top: 6685px;
+  width: 305px;
+  height: 41px;
+}
+.accounts-engaged {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 1796px;
+  top: 6823px;
+  width: 305px;
+  height: 34px;
+}
+.total-followers {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 1796px;
+  top: 6950px;
+  width: 305px;
+  height: 41px;
+}
+._2-480 {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 2355px;
+  top: 6676px;
+  width: 109px;
+  height: 40px;
+}
+.blackbox-arrow {
+  height: auto;
+  position: absolute;
+  left: 2486.51px;
+  top: 6726.28px;
+  transform: translate(-2.69px, -28.55px);
+  overflow: visible;
+}
+._534 {
+  color: #5a985e;
+  text-align: center;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 2356px;
+  top: 6726px;
+  width: 106px;
+  height: 33px;
+}
+._562 {
+  color: #faf6ee;
+  text-align: center;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 2399px;
+  top: 6819px;
+  width: 60px;
+  height: 35px;
+}
+.blackbox-arrow2 {
+  height: auto;
+  position: absolute;
+  left: 2486.51px;
+  top: 6860.28px;
+  transform: translate(-2.69px, -28.55px);
+  overflow: visible;
+}
+._1840 {
+  color: #5a985e;
+  text-align: center;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 2353px;
+  top: 6864px;
+  width: 106px;
+  height: 33px;
+}
+._11-700 {
+  color: #faf6ee;
+  text-align: center;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 112.91%;
+  font-weight: 400;
+  position: absolute;
+  left: 2369px;
+  top: 6957px;
+  width: 90px;
+  height: 39px;
+}
+.results {
+  position: absolute;
+  inset: 0;
+}
+.results-group {
+  width: 1397px;
+  height: 658px;
+  position: static;
+}
+.rectangle-432 {
+  background: #92472c;
+  width: 1397px;
+  height: 658px;
+  position: absolute;
+  left: 351px;
+  top: 6551px;
+}
+.check-mark5 {
+  width: 43.18px;
+  height: 60.71px;
+  position: absolute;
+  left: 428.77px;
+  top: 6860px;
+}
+.results-group2 {
+  width: 31.25px;
+  height: 19.28px;
+  position: static;
+}
+.check-mark6 {
+  width: 31.25px;
+  height: 19.28px;
+  position: absolute;
+  left: 1799.29px;
+  top: 7098.15px;
+}
+.during-the-test-period-from-dec-1-to-31-the-account-reached-2480-people-account-engagement-increased-by-1840-the-number-of-followers-increases-by-84 {
+  color: #faf6ee;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 48px;
+  line-height: 120.94%;
+  font-weight: 500;
+  position: absolute;
+  left: 530px;
+  top: 6714px;
+  width: 1090px;
+  height: 406px;
+}
+.check-mark7 {
+  width: 58px;
+  height: 39px;
+  position: absolute;
+  left: 453px;
+  top: 6779px;
+  object-fit: cover;
+}
+.check-mark8 {
+  width: 51px;
+  height: 42px;
+  position: absolute;
+  left: 453px;
+  top: 6838px;
+  object-fit: cover;
+}
+.check-mark9 {
+  width: 51px;
+  height: 42px;
+  position: absolute;
+  left: 453px;
+  top: 6907px;
+  object-fit: cover;
+}
+.check-mark10 {
+  width: 51px;
+  height: 36px;
+  position: absolute;
+  left: 453px;
+  top: 6928px;
+}
+.the-tasks {
+  color: #221908;
+  text-align: left;
+  font-family: "MedievalSharp-Regular", sans-serif;
+  font-size: 210px;
+  font-weight: 400;
+  position: absolute;
+  left: 352px;
+  top: 3745px;
+  width: 924px;
+  height: 214px;
+}
+.black-box-3-str {
+  width: 164px;
+  height: 165px;
+  position: absolute;
+  left: 2485px;
+  top: 6912px;
+  overflow: visible;
+}
+.feed-1 {
+  width: 398px;
+  height: 398.87px;
+  position: absolute;
+  left: 351px;
+  top: 1993px;
+  object-fit: cover;
+}
+.feed-2 {
+  width: 398px;
+  height: 398.87px;
+  position: absolute;
+  left: 778px;
+  top: 1993.06px;
+  object-fit: cover;
+}
+.feed-3 {
+  width: 398px;
+  height: 398.87px;
+  position: absolute;
+  left: 1205px;
+  top: 1993.06px;
+  object-fit: cover;
+}
+.feed-6 {
+  width: 398px;
+  height: 398.87px;
+  position: absolute;
+  left: 1205px;
+  top: 2420.48px;
+  object-fit: cover;
+}
+.feed-5 {
+  width: 398px;
+  height: 398.87px;
+  position: absolute;
+  left: 778px;
+  top: 2420.48px;
+  object-fit: cover;
+}
+.feed-4 {
+  width: 398px;
+  height: 398.87px;
+  position: absolute;
+  left: 351px;
+  top: 2420.43px;
+  object-fit: cover;
+}
+.feed-7 {
+  width: 398px;
+  height: 398.87px;
+  position: absolute;
+  left: 351px;
+  top: 2838.99px;
+  object-fit: cover;
+}
+.feed-8 {
+  width: 398px;
+  height: 398.87px;
+  position: absolute;
+  left: 778px;
+  top: 2847.91px;
+  object-fit: cover;
+}
+.feed-9 {
+  width: 398px;
+  height: 398.87px;
+  position: absolute;
+  left: 1205px;
+  top: 2847.91px;
+  object-fit: cover;
+}
+.task-1 {
+  width: 737px;
+  height: 872px;
+  position: absolute;
+  left: 2027px;
+  top: 4625px;
+  object-fit: cover;
+}
+.task-2 {
+  width: 737px;
+  height: 872px;
+  position: absolute;
+  left: 1219px;
+  top: 4625px;
+  object-fit: cover;
+}
+.rectangle-44 {
+  background: #92472c;
+  width: 502px;
+  height: 200px;
+  position: absolute;
+  left: 1743px;
+  top: 7009px;
+}
+.rectangle-45 {
+  border-radius: 79px;
+  width: 576px;
+  height: 1214px;
+  position: absolute;
+  left: 1596px;
+  top: 685px;
+  object-fit: cover;
+}
