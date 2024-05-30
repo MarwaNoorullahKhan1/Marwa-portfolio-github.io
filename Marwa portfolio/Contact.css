@@ -2,9 +2,6 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #f8f6e9;
-   /* Other styles */
-    transform: scale(0.5);
-    transform-origin: top left;
 }
 
 header {
