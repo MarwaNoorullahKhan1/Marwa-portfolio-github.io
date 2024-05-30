@@ -1,0 +1,3469 @@
+.parent container{
+  margin: 0;
+      padding: 0;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #000000;
+}
+
+.marquee{
+  
+  width: 100%;
+  
+  font-size: 700px;
+  color: #9d8f74;
+  position: fixed;
+  z-index: 1;
+  
+  
+
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f6e9;
+  zoom: 92%;
+  
+}
+
+header {
+  background-color: #f8f6e9;
+  width: 100%;
+  position: fixed;
+  top: 20;
+  left: 20;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 44px; /* Increased font size */
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: rgb(232, 232, 58); /* Yellow hover effect */
+}
+
+
+
+
+
+  
+  .frame-4,
+.frame-4 * {
+  box-sizing: border-box;
+}
+.frame-4 {
+  background: #000000;
+  height: 17158px;
+  position: relative;
+  overflow: hidden;
+}
+.century-treasures-1 {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 291px;
+  top: 1121px;
+  object-fit: cover;
+}
+.mix-media-illustrations {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 300px;
+  top: 5077px;
+  object-fit: cover;
+}
+.magazine-books {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 291px;
+  top: 3099px;
+  object-fit: cover;
+}
+.mixmedia {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 300px;
+  top: 7055px;
+  object-fit: cover;
+}
+.magazine-recreating {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 1585px;
+  top: 1121px;
+  object-fit: cover;
+}
+.magazine-cover {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 1594px;
+  top: 5077px;
+  object-fit: cover;
+}
+.edit-ur-book-as-u-like {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 1585px;
+  top: 3099px;
+  object-fit: cover;
+}
+.app-design-final {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 1594px;
+  top: 7055px;
+  object-fit: cover;
+}
+.edit-ur-book {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 2879px;
+  top: 1121px;
+  object-fit: cover;
+}
+.app-deisgn {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 2888px;
+  top: 5077px;
+  object-fit: cover;
+}
+.magazine-covers {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 2879px;
+  top: 3099px;
+  object-fit: cover;
+}
+.illustration-0-0 {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 2888px;
+  top: 7055px;
+  object-fit: cover;
+}
+.century-treasures-0 {
+  width: 247px;
+  height: 1225px;
+  position: absolute;
+  left: 0px;
+  top: 1121px;
+  object-fit: cover;
+}
+.edit-ur-magazine-cover-0 {
+  width: 247px;
+  height: 1225px;
+  position: absolute;
+  left: 9px;
+  top: 5077px;
+  object-fit: cover;
+}
+.edit-ur-book-0 {
+  width: 247px;
+  height: 1225px;
+  position: absolute;
+  left: 0px;
+  top: 3099px;
+  object-fit: cover;
+}
+.app-deisgn-0 {
+  width: 247px;
+  height: 1225px;
+  position: absolute;
+  left: 9px;
+  top: 7055px;
+  object-fit: cover;
+}
+.frame-for-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-42 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 0px;
+  top: 958px;
+}
+.rectangle-43 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 37px;
+  top: 980px;
+}
+.rectangle-44 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 201px;
+  top: 980px;
+}
+.rectangle-45 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 365px;
+  top: 980px;
+}
+.rectangle-46 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 529px;
+  top: 979px;
+}
+.rectangle-47 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 693px;
+  top: 980px;
+}
+.rectangle-48 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 857px;
+  top: 979px;
+}
+.rectangle-49 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1021px;
+  top: 980px;
+}
+.rectangle-50 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1185px;
+  top: 980px;
+}
+.rectangle-51 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1349px;
+  top: 980px;
+}
+.rectangle-52 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1513px;
+  top: 980px;
+}
+.rectangle-53 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1677px;
+  top: 980px;
+}
+.rectangle-54 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1841px;
+  top: 979px;
+}
+.rectangle-55 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2005px;
+  top: 980px;
+}
+.rectangle-56 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2169px;
+  top: 980px;
+}
+.rectangle-57 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2333px;
+  top: 980px;
+}
+.rectangle-58 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2497px;
+  top: 979px;
+}
+.rectangle-59 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2661px;
+  top: 979px;
+}
+.rectangle-60 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2825px;
+  top: 979px;
+}
+.rectangle-61 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2989px;
+  top: 979px;
+}
+.rectangle-62 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3153px;
+  top: 979px;
+}
+.rectangle-63 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3317px;
+  top: 979px;
+}
+.rectangle-64 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3481px;
+  top: 979px;
+}
+.rectangle-65 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3645px;
+  top: 979px;
+}
+.frame-for-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-422 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 9px;
+  top: 4914px;
+}
+.rectangle-432 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 46px;
+  top: 4936px;
+}
+.rectangle-442 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 210px;
+  top: 4936px;
+}
+.rectangle-452 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 374px;
+  top: 4936px;
+}
+.rectangle-462 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 538px;
+  top: 4935px;
+}
+.rectangle-472 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 702px;
+  top: 4936px;
+}
+.rectangle-482 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 866px;
+  top: 4935px;
+}
+.rectangle-492 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1030px;
+  top: 4936px;
+}
+.rectangle-502 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1194px;
+  top: 4936px;
+}
+.rectangle-512 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1358px;
+  top: 4936px;
+}
+.rectangle-522 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1522px;
+  top: 4936px;
+}
+.rectangle-532 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1686px;
+  top: 4936px;
+}
+.rectangle-542 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1850px;
+  top: 4935px;
+}
+.rectangle-552 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2014px;
+  top: 4936px;
+}
+.rectangle-562 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2178px;
+  top: 4936px;
+}
+.rectangle-572 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2342px;
+  top: 4936px;
+}
+.rectangle-582 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2506px;
+  top: 4935px;
+}
+.rectangle-592 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2670px;
+  top: 4935px;
+}
+.rectangle-602 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2834px;
+  top: 4935px;
+}
+.rectangle-612 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2998px;
+  top: 4935px;
+}
+.rectangle-622 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3162px;
+  top: 4935px;
+}
+.rectangle-632 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3326px;
+  top: 4935px;
+}
+.rectangle-642 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3490px;
+  top: 4935px;
+}
+.rectangle-652 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3654px;
+  top: 4935px;
+}
+.frame-for-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-423 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 0px;
+  top: 2936px;
+}
+.rectangle-433 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 37px;
+  top: 2958px;
+}
+.rectangle-443 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 201px;
+  top: 2958px;
+}
+.rectangle-453 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 365px;
+  top: 2958px;
+}
+.rectangle-463 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 529px;
+  top: 2957px;
+}
+.rectangle-473 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 693px;
+  top: 2958px;
+}
+.rectangle-483 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 857px;
+  top: 2957px;
+}
+.rectangle-493 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1021px;
+  top: 2958px;
+}
+.rectangle-503 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1185px;
+  top: 2958px;
+}
+.rectangle-513 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1349px;
+  top: 2958px;
+}
+.rectangle-523 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1513px;
+  top: 2958px;
+}
+.rectangle-533 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1677px;
+  top: 2958px;
+}
+.rectangle-543 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1841px;
+  top: 2957px;
+}
+.rectangle-553 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2005px;
+  top: 2958px;
+}
+.rectangle-563 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2169px;
+  top: 2958px;
+}
+.rectangle-573 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2333px;
+  top: 2958px;
+}
+.rectangle-583 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2497px;
+  top: 2957px;
+}
+.rectangle-593 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2661px;
+  top: 2957px;
+}
+.rectangle-603 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2825px;
+  top: 2957px;
+}
+.rectangle-613 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2989px;
+  top: 2957px;
+}
+.rectangle-623 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3153px;
+  top: 2957px;
+}
+.rectangle-633 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3317px;
+  top: 2957px;
+}
+.rectangle-643 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3481px;
+  top: 2957px;
+}
+.rectangle-653 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3645px;
+  top: 2957px;
+}
+.frame-for-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-424 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 9px;
+  top: 6892px;
+}
+.rectangle-434 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 46px;
+  top: 6914px;
+}
+.rectangle-444 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 210px;
+  top: 6914px;
+}
+.rectangle-454 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 374px;
+  top: 6914px;
+}
+.rectangle-464 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 538px;
+  top: 6913px;
+}
+.rectangle-474 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 702px;
+  top: 6914px;
+}
+.rectangle-484 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 866px;
+  top: 6913px;
+}
+.rectangle-494 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1030px;
+  top: 6914px;
+}
+.rectangle-504 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1194px;
+  top: 6914px;
+}
+.rectangle-514 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1358px;
+  top: 6914px;
+}
+.rectangle-524 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1522px;
+  top: 6914px;
+}
+.rectangle-534 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1686px;
+  top: 6914px;
+}
+.rectangle-544 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1850px;
+  top: 6913px;
+}
+.rectangle-554 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2014px;
+  top: 6914px;
+}
+.rectangle-564 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2178px;
+  top: 6914px;
+}
+.rectangle-574 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2342px;
+  top: 6914px;
+}
+.rectangle-584 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2506px;
+  top: 6913px;
+}
+.rectangle-594 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2670px;
+  top: 6913px;
+}
+.rectangle-604 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2834px;
+  top: 6913px;
+}
+.rectangle-614 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2998px;
+  top: 6913px;
+}
+.rectangle-624 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3162px;
+  top: 6913px;
+}
+.rectangle-634 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3326px;
+  top: 6913px;
+}
+.rectangle-644 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3490px;
+  top: 6913px;
+}
+.rectangle-654 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3654px;
+  top: 6913px;
+}
+.frame-for-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-425 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: -8px;
+  top: 2391px;
+}
+.rectangle-435 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 29px;
+  top: 2413px;
+}
+.rectangle-445 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 193px;
+  top: 2413px;
+}
+.rectangle-455 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 357px;
+  top: 2413px;
+}
+.rectangle-465 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 521px;
+  top: 2412px;
+}
+.rectangle-475 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 685px;
+  top: 2413px;
+}
+.rectangle-485 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 849px;
+  top: 2412px;
+}
+.rectangle-495 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1013px;
+  top: 2413px;
+}
+.rectangle-505 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1177px;
+  top: 2413px;
+}
+.rectangle-515 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1341px;
+  top: 2413px;
+}
+.rectangle-525 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1505px;
+  top: 2413px;
+}
+.rectangle-535 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1669px;
+  top: 2413px;
+}
+.rectangle-545 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1833px;
+  top: 2412px;
+}
+.rectangle-555 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1997px;
+  top: 2413px;
+}
+.rectangle-565 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2161px;
+  top: 2413px;
+}
+.rectangle-575 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2325px;
+  top: 2413px;
+}
+.rectangle-585 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2489px;
+  top: 2412px;
+}
+.rectangle-595 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2653px;
+  top: 2412px;
+}
+.rectangle-605 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2817px;
+  top: 2412px;
+}
+.rectangle-615 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2981px;
+  top: 2412px;
+}
+.rectangle-625 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3145px;
+  top: 2412px;
+}
+.rectangle-635 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3309px;
+  top: 2412px;
+}
+.rectangle-645 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3473px;
+  top: 2412px;
+}
+.rectangle-655 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3637px;
+  top: 2412px;
+}
+.frame-for-7 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-426 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 1px;
+  top: 6347px;
+}
+.rectangle-436 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 38px;
+  top: 6369px;
+}
+.rectangle-446 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 202px;
+  top: 6369px;
+}
+.rectangle-456 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 366px;
+  top: 6369px;
+}
+.rectangle-466 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 530px;
+  top: 6368px;
+}
+.rectangle-476 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 694px;
+  top: 6369px;
+}
+.rectangle-486 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 858px;
+  top: 6368px;
+}
+.rectangle-496 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1022px;
+  top: 6369px;
+}
+.rectangle-506 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1186px;
+  top: 6369px;
+}
+.rectangle-516 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1350px;
+  top: 6369px;
+}
+.rectangle-526 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1514px;
+  top: 6369px;
+}
+.rectangle-536 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1678px;
+  top: 6369px;
+}
+.rectangle-546 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1842px;
+  top: 6368px;
+}
+.rectangle-556 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2006px;
+  top: 6369px;
+}
+.rectangle-566 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2170px;
+  top: 6369px;
+}
+.rectangle-576 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2334px;
+  top: 6369px;
+}
+.rectangle-586 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2498px;
+  top: 6368px;
+}
+.rectangle-596 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2662px;
+  top: 6368px;
+}
+.rectangle-606 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2826px;
+  top: 6368px;
+}
+.rectangle-616 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2990px;
+  top: 6368px;
+}
+.rectangle-626 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3154px;
+  top: 6368px;
+}
+.rectangle-636 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3318px;
+  top: 6368px;
+}
+.rectangle-646 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3482px;
+  top: 6368px;
+}
+.rectangle-656 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3646px;
+  top: 6368px;
+}
+.frame-for-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-427 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: -8px;
+  top: 4369px;
+}
+.rectangle-437 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 29px;
+  top: 4391px;
+}
+.rectangle-447 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 193px;
+  top: 4391px;
+}
+.rectangle-457 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 357px;
+  top: 4391px;
+}
+.rectangle-467 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 521px;
+  top: 4390px;
+}
+.rectangle-477 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 685px;
+  top: 4391px;
+}
+.rectangle-487 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 849px;
+  top: 4390px;
+}
+.rectangle-497 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1013px;
+  top: 4391px;
+}
+.rectangle-507 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1177px;
+  top: 4391px;
+}
+.rectangle-517 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1341px;
+  top: 4391px;
+}
+.rectangle-527 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1505px;
+  top: 4391px;
+}
+.rectangle-537 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1669px;
+  top: 4391px;
+}
+.rectangle-547 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1833px;
+  top: 4390px;
+}
+.rectangle-557 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1997px;
+  top: 4391px;
+}
+.rectangle-567 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2161px;
+  top: 4391px;
+}
+.rectangle-577 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2325px;
+  top: 4391px;
+}
+.rectangle-587 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2489px;
+  top: 4390px;
+}
+.rectangle-597 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2653px;
+  top: 4390px;
+}
+.rectangle-607 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2817px;
+  top: 4390px;
+}
+.rectangle-617 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2981px;
+  top: 4390px;
+}
+.rectangle-627 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3145px;
+  top: 4390px;
+}
+.rectangle-637 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3309px;
+  top: 4390px;
+}
+.rectangle-647 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3473px;
+  top: 4390px;
+}
+.rectangle-657 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3637px;
+  top: 4390px;
+}
+.frame-for-8 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-428 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 1px;
+  top: 8325px;
+}
+.rectangle-438 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 38px;
+  top: 8347px;
+}
+.rectangle-448 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 202px;
+  top: 8347px;
+}
+.rectangle-458 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 366px;
+  top: 8347px;
+}
+.rectangle-468 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 530px;
+  top: 8346px;
+}
+.rectangle-478 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 694px;
+  top: 8347px;
+}
+.rectangle-488 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 858px;
+  top: 8346px;
+}
+.rectangle-498 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1022px;
+  top: 8347px;
+}
+.rectangle-508 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1186px;
+  top: 8347px;
+}
+.rectangle-518 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1350px;
+  top: 8347px;
+}
+.rectangle-528 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1514px;
+  top: 8347px;
+}
+.rectangle-538 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1678px;
+  top: 8347px;
+}
+.rectangle-548 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1842px;
+  top: 8346px;
+}
+.rectangle-558 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2006px;
+  top: 8347px;
+}
+.rectangle-568 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2170px;
+  top: 8347px;
+}
+.rectangle-578 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2334px;
+  top: 8347px;
+}
+.rectangle-588 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2498px;
+  top: 8346px;
+}
+.rectangle-598 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2662px;
+  top: 8346px;
+}
+.rectangle-608 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2826px;
+  top: 8346px;
+}
+.rectangle-618 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2990px;
+  top: 8346px;
+}
+.rectangle-628 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3154px;
+  top: 8346px;
+}
+.rectangle-638 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3318px;
+  top: 8346px;
+}
+.rectangle-648 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3482px;
+  top: 8346px;
+}
+.rectangle-658 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3646px;
+  top: 8346px;
+}
+.illustation-2 {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 299px;
+  top: 8878px;
+  object-fit: cover;
+}
+.sliders {
+  width: 2544px;
+  height: 1225px;
+  position: absolute;
+  left: 308px;
+  top: 12834px;
+  object-fit: cover;
+}
+.mixmedia-old-women {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 299px;
+  top: 10856px;
+  object-fit: cover;
+}
+.flyers {
+  width: 1695px;
+  height: 1225px;
+  position: absolute;
+  left: 308px;
+  top: 14812px;
+  object-fit: cover;
+}
+.interior-deisgn {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 1593px;
+  top: 8878px;
+  object-fit: cover;
+}
+.cuboard-design {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 1593px;
+  top: 10856px;
+  object-fit: cover;
+}
+.illustration-boy {
+  width: 830px;
+  height: 1225px;
+  position: absolute;
+  left: 2022px;
+  top: 14812px;
+  object-fit: cover;
+}
+.century-treasure-final {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 2887px;
+  top: 8878px;
+  object-fit: cover;
+}
+.magazine {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 2896px;
+  top: 12834px;
+  object-fit: cover;
+}
+.sliders-book {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 2887px;
+  top: 10856px;
+  object-fit: cover;
+}
+.ui-ux {
+  width: 1250px;
+  height: 1225px;
+  position: absolute;
+  left: 2896px;
+  top: 14812px;
+  object-fit: cover;
+}
+.illustation-0 {
+  width: 247px;
+  height: 1225px;
+  position: absolute;
+  left: 8px;
+  top: 8878px;
+  object-fit: cover;
+}
+.sliders-book-0 {
+  width: 247px;
+  height: 1225px;
+  position: absolute;
+  left: 17px;
+  top: 12834px;
+  object-fit: cover;
+}
+.century-trasures-0 {
+  width: 247px;
+  height: 1225px;
+  position: absolute;
+  left: 8px;
+  top: 10856px;
+  object-fit: cover;
+}
+._000 {
+  width: 247px;
+  height: 1225px;
+  position: absolute;
+  left: 17px;
+  top: 14812px;
+  object-fit: cover;
+}
+.frame-for-9 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-429 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 8px;
+  top: 8715px;
+}
+.rectangle-439 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 45px;
+  top: 8737px;
+}
+.rectangle-449 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 209px;
+  top: 8737px;
+}
+.rectangle-459 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 373px;
+  top: 8737px;
+}
+.rectangle-469 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 537px;
+  top: 8736px;
+}
+.rectangle-479 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 701px;
+  top: 8737px;
+}
+.rectangle-489 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 865px;
+  top: 8736px;
+}
+.rectangle-499 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1029px;
+  top: 8737px;
+}
+.rectangle-509 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1193px;
+  top: 8737px;
+}
+.rectangle-519 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1357px;
+  top: 8737px;
+}
+.rectangle-529 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1521px;
+  top: 8737px;
+}
+.rectangle-539 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1685px;
+  top: 8737px;
+}
+.rectangle-549 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1849px;
+  top: 8736px;
+}
+.rectangle-559 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2013px;
+  top: 8737px;
+}
+.rectangle-569 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2177px;
+  top: 8737px;
+}
+.rectangle-579 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2341px;
+  top: 8737px;
+}
+.rectangle-589 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2505px;
+  top: 8736px;
+}
+.rectangle-599 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2669px;
+  top: 8736px;
+}
+.rectangle-609 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2833px;
+  top: 8736px;
+}
+.rectangle-619 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2997px;
+  top: 8736px;
+}
+.rectangle-629 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3161px;
+  top: 8736px;
+}
+.rectangle-639 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3325px;
+  top: 8736px;
+}
+.rectangle-649 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3489px;
+  top: 8736px;
+}
+.rectangle-659 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3653px;
+  top: 8736px;
+}
+.frame-for-13 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4210 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 17px;
+  top: 12671px;
+}
+.rectangle-4310 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 54px;
+  top: 12693px;
+}
+.rectangle-4410 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 218px;
+  top: 12693px;
+}
+.rectangle-4510 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 382px;
+  top: 12693px;
+}
+.rectangle-4610 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 546px;
+  top: 12692px;
+}
+.rectangle-4710 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 710px;
+  top: 12693px;
+}
+.rectangle-4810 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 874px;
+  top: 12692px;
+}
+.rectangle-4910 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1038px;
+  top: 12693px;
+}
+.rectangle-5010 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1202px;
+  top: 12693px;
+}
+.rectangle-5110 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1366px;
+  top: 12693px;
+}
+.rectangle-5210 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1530px;
+  top: 12693px;
+}
+.rectangle-5310 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1694px;
+  top: 12693px;
+}
+.rectangle-5410 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1858px;
+  top: 12692px;
+}
+.rectangle-5510 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2022px;
+  top: 12693px;
+}
+.rectangle-5610 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2186px;
+  top: 12693px;
+}
+.rectangle-5710 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2350px;
+  top: 12693px;
+}
+.rectangle-5810 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2514px;
+  top: 12692px;
+}
+.rectangle-5910 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2678px;
+  top: 12692px;
+}
+.rectangle-6010 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2842px;
+  top: 12692px;
+}
+.rectangle-6110 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3006px;
+  top: 12692px;
+}
+.rectangle-6210 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3170px;
+  top: 12692px;
+}
+.rectangle-6310 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3334px;
+  top: 12692px;
+}
+.rectangle-6410 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3498px;
+  top: 12692px;
+}
+.rectangle-6510 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3662px;
+  top: 12692px;
+}
+.frame-for-11 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4211 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 8px;
+  top: 10693px;
+}
+.rectangle-4311 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 45px;
+  top: 10715px;
+}
+.rectangle-4411 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 209px;
+  top: 10715px;
+}
+.rectangle-4511 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 373px;
+  top: 10715px;
+}
+.rectangle-4611 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 537px;
+  top: 10714px;
+}
+.rectangle-4711 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 701px;
+  top: 10715px;
+}
+.rectangle-4811 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 865px;
+  top: 10714px;
+}
+.rectangle-4911 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1029px;
+  top: 10715px;
+}
+.rectangle-5011 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1193px;
+  top: 10715px;
+}
+.rectangle-5111 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1357px;
+  top: 10715px;
+}
+.rectangle-5211 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1521px;
+  top: 10715px;
+}
+.rectangle-5311 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1685px;
+  top: 10715px;
+}
+.rectangle-5411 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1849px;
+  top: 10714px;
+}
+.rectangle-5511 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2013px;
+  top: 10715px;
+}
+.rectangle-5611 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2177px;
+  top: 10715px;
+}
+.rectangle-5711 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2341px;
+  top: 10715px;
+}
+.rectangle-5811 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2505px;
+  top: 10714px;
+}
+.rectangle-5911 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2669px;
+  top: 10714px;
+}
+.rectangle-6011 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2833px;
+  top: 10714px;
+}
+.rectangle-6111 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2997px;
+  top: 10714px;
+}
+.rectangle-6211 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3161px;
+  top: 10714px;
+}
+.rectangle-6311 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3325px;
+  top: 10714px;
+}
+.rectangle-6411 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3489px;
+  top: 10714px;
+}
+.rectangle-6511 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3653px;
+  top: 10714px;
+}
+.frame-for-14 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4212 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 17px;
+  top: 14649px;
+}
+.rectangle-4312 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 54px;
+  top: 14671px;
+}
+.rectangle-4412 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 218px;
+  top: 14671px;
+}
+.rectangle-4512 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 382px;
+  top: 14671px;
+}
+.rectangle-4612 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 546px;
+  top: 14670px;
+}
+.rectangle-4712 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 710px;
+  top: 14671px;
+}
+.rectangle-4812 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 874px;
+  top: 14670px;
+}
+.rectangle-4912 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1038px;
+  top: 14671px;
+}
+.rectangle-5012 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1202px;
+  top: 14671px;
+}
+.rectangle-5112 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1366px;
+  top: 14671px;
+}
+.rectangle-5212 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1530px;
+  top: 14671px;
+}
+.rectangle-5312 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1694px;
+  top: 14671px;
+}
+.rectangle-5412 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1858px;
+  top: 14670px;
+}
+.rectangle-5512 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2022px;
+  top: 14671px;
+}
+.rectangle-5612 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2186px;
+  top: 14671px;
+}
+.rectangle-5712 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2350px;
+  top: 14671px;
+}
+.rectangle-5812 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2514px;
+  top: 14670px;
+}
+.rectangle-5912 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2678px;
+  top: 14670px;
+}
+.rectangle-6012 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2842px;
+  top: 14670px;
+}
+.rectangle-6112 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3006px;
+  top: 14670px;
+}
+.rectangle-6212 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3170px;
+  top: 14670px;
+}
+.rectangle-6312 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3334px;
+  top: 14670px;
+}
+.rectangle-6412 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3498px;
+  top: 14670px;
+}
+.rectangle-6512 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3662px;
+  top: 14670px;
+}
+.frame-for-10 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4213 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 0px;
+  top: 10148px;
+}
+.rectangle-4313 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 37px;
+  top: 10170px;
+}
+.rectangle-4413 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 201px;
+  top: 10170px;
+}
+.rectangle-4513 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 365px;
+  top: 10170px;
+}
+.rectangle-4613 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 529px;
+  top: 10169px;
+}
+.rectangle-4713 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 693px;
+  top: 10170px;
+}
+.rectangle-4813 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 857px;
+  top: 10169px;
+}
+.rectangle-4913 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1021px;
+  top: 10170px;
+}
+.rectangle-5013 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1185px;
+  top: 10170px;
+}
+.rectangle-5113 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1349px;
+  top: 10170px;
+}
+.rectangle-5213 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1513px;
+  top: 10170px;
+}
+.rectangle-5313 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1677px;
+  top: 10170px;
+}
+.rectangle-5413 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1841px;
+  top: 10169px;
+}
+.rectangle-5513 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2005px;
+  top: 10170px;
+}
+.rectangle-5613 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2169px;
+  top: 10170px;
+}
+.rectangle-5713 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2333px;
+  top: 10170px;
+}
+.rectangle-5813 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2497px;
+  top: 10169px;
+}
+.rectangle-5913 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2661px;
+  top: 10169px;
+}
+.rectangle-6013 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2825px;
+  top: 10169px;
+}
+.rectangle-6113 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2989px;
+  top: 10169px;
+}
+.rectangle-6213 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3153px;
+  top: 10169px;
+}
+.rectangle-6313 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3317px;
+  top: 10169px;
+}
+.rectangle-6413 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3481px;
+  top: 10169px;
+}
+.rectangle-6513 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3645px;
+  top: 10169px;
+}
+.rectangle-4214 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 9px;
+  top: 14104px;
+}
+.rectangle-4314 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 46px;
+  top: 14126px;
+}
+.rectangle-4414 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 210px;
+  top: 14126px;
+}
+.rectangle-4514 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 374px;
+  top: 14126px;
+}
+.rectangle-4614 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 538px;
+  top: 14125px;
+}
+.rectangle-4714 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 702px;
+  top: 14126px;
+}
+.rectangle-4814 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 866px;
+  top: 14125px;
+}
+.rectangle-4914 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1030px;
+  top: 14126px;
+}
+.rectangle-5014 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1194px;
+  top: 14126px;
+}
+.rectangle-5114 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1358px;
+  top: 14126px;
+}
+.rectangle-5214 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1522px;
+  top: 14126px;
+}
+.rectangle-5314 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1686px;
+  top: 14126px;
+}
+.rectangle-5414 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1850px;
+  top: 14125px;
+}
+.rectangle-5514 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2014px;
+  top: 14126px;
+}
+.rectangle-5614 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2178px;
+  top: 14126px;
+}
+.rectangle-5714 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2342px;
+  top: 14126px;
+}
+.rectangle-5814 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2506px;
+  top: 14125px;
+}
+.rectangle-5914 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2670px;
+  top: 14125px;
+}
+.rectangle-6014 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2834px;
+  top: 14125px;
+}
+.rectangle-6114 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2998px;
+  top: 14125px;
+}
+.rectangle-6214 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3162px;
+  top: 14125px;
+}
+.rectangle-6314 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3326px;
+  top: 14125px;
+}
+.rectangle-6414 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3490px;
+  top: 14125px;
+}
+.rectangle-6514 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3654px;
+  top: 14125px;
+}
+.frame-for-12 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4215 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 0px;
+  top: 12126px;
+}
+.rectangle-4315 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 37px;
+  top: 12148px;
+}
+.rectangle-4415 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 201px;
+  top: 12148px;
+}
+.rectangle-4515 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 365px;
+  top: 12148px;
+}
+.rectangle-4615 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 529px;
+  top: 12147px;
+}
+.rectangle-4715 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 693px;
+  top: 12148px;
+}
+.rectangle-4815 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 857px;
+  top: 12147px;
+}
+.rectangle-4915 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1021px;
+  top: 12148px;
+}
+.rectangle-5015 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1185px;
+  top: 12148px;
+}
+.rectangle-5115 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1349px;
+  top: 12148px;
+}
+.rectangle-5215 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1513px;
+  top: 12148px;
+}
+.rectangle-5315 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1677px;
+  top: 12148px;
+}
+.rectangle-5415 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1841px;
+  top: 12147px;
+}
+.rectangle-5515 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2005px;
+  top: 12148px;
+}
+.rectangle-5615 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2169px;
+  top: 12148px;
+}
+.rectangle-5715 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2333px;
+  top: 12148px;
+}
+.rectangle-5815 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2497px;
+  top: 12147px;
+}
+.rectangle-5915 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2661px;
+  top: 12147px;
+}
+.rectangle-6015 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2825px;
+  top: 12147px;
+}
+.rectangle-6115 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2989px;
+  top: 12147px;
+}
+.rectangle-6215 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3153px;
+  top: 12147px;
+}
+.rectangle-6315 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3317px;
+  top: 12147px;
+}
+.rectangle-6415 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3481px;
+  top: 12147px;
+}
+.rectangle-6515 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3645px;
+  top: 12147px;
+}
+.frame-for-15 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4216 {
+  background: #d9d9d9;
+  width: 3798px;
+  height: 118px;
+  position: absolute;
+  left: 9px;
+  top: 16082px;
+}
+.rectangle-4316 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 46px;
+  top: 16104px;
+}
+.rectangle-4416 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 210px;
+  top: 16104px;
+}
+.rectangle-4516 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 374px;
+  top: 16104px;
+}
+.rectangle-4616 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 538px;
+  top: 16103px;
+}
+.rectangle-4716 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 702px;
+  top: 16104px;
+}
+.rectangle-4816 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 866px;
+  top: 16103px;
+}
+.rectangle-4916 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1030px;
+  top: 16104px;
+}
+.rectangle-5016 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1194px;
+  top: 16104px;
+}
+.rectangle-5116 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1358px;
+  top: 16104px;
+}
+.rectangle-5216 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1522px;
+  top: 16104px;
+}
+.rectangle-5316 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1686px;
+  top: 16104px;
+}
+.rectangle-5416 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 1850px;
+  top: 16103px;
+}
+.rectangle-5516 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2014px;
+  top: 16104px;
+}
+.rectangle-5616 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2178px;
+  top: 16104px;
+}
+.rectangle-5716 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2342px;
+  top: 16104px;
+}
+.rectangle-5816 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2506px;
+  top: 16103px;
+}
+.rectangle-5916 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2670px;
+  top: 16103px;
+}
+.rectangle-6016 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2834px;
+  top: 16103px;
+}
+.rectangle-6116 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 2998px;
+  top: 16103px;
+}
+.rectangle-6216 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3162px;
+  top: 16103px;
+}
+.rectangle-6316 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3326px;
+  top: 16103px;
+}
+.rectangle-6416 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3490px;
+  top: 16103px;
+}
+.rectangle-6516 {
+  background: #000000;
+  width: 145px;
+  height: 76px;
+  position: absolute;
+  left: 3654px;
+  top: 16103px;
+}
