@@ -1,0 +1,63 @@
+
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            background-color: black;
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        header {
+            background-color: #f8f6e9;
+            width: 100%;
+            position: fixed;
+            top: 20;
+            left: 20;
+            z-index: 1000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px 0;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.629);
+          }
+          
+          nav {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+          }
+          
+          nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+          }
+          
+          nav ul li {
+            margin: 0 20px;
+          }
+          
+          nav ul li a {
+            text-decoration: none;
+            color: black;
+            font-size: 44px; /* Increased font size */
+            font-weight: bold;
+          }
+          
+          nav ul li a:hover {
+            color: rgb(232, 232, 58); /* Yellow hover effect */
+          }
+
+
+    
